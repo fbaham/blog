@@ -210,6 +210,10 @@ footer .copyright {
 	padding: 15px 0;
 }
 
+footer a {
+	color: #fff;
+}
+
 /* --- Paginacion --- */
 
 .paginacion {
