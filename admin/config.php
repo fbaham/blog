@@ -1,6 +1,6 @@
 <?php
 
-define('RUTA', 'http://localhost/Cursos/curso_php/practicas/blog/');
+define('RUTA', 'http://localhost/blog/');
 //configuracion de base de datos
 $bd_config = array(
   'basededatos' => 'curso_blog',
