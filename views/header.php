@@ -13,7 +13,7 @@
 <body>
 
   <header>
-    <div class="contenedor">
+    <div class="contenedor-header">
       <div class="logo izquierda">
         <p><a href="<?php echo RUTA; ?>">BLOOOOOOOOOOOOG!</a></p>
       </div>
